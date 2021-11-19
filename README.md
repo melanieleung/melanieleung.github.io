@@ -1,1 +1,1 @@
-Map of my favorite climbing spots in California
+GitHub Portfolio to share selected graphic design and GIS projects publicly
